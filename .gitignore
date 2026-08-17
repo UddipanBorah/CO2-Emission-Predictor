@@ -7,10 +7,5 @@ ENV/
 __pycache__/
 *.py[cod]
 
-# Data files (optional: comment out if datasets are tiny CSVs)
-datasets/raw_data/
-datasets/cleaned_data/
-datasets/feature_engineered_data/
-
-# Model binaries (if larger than 100MB)
+# Model binaries (uncomment only if a .pkl file exceeds 100MB)
 # model/*.pkl
