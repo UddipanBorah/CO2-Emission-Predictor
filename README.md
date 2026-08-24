@@ -44,7 +44,6 @@ This application solves that problem using a two-pronged machine learning approa
 ├── app.py
 ├── utils.py
 ├── recommender.py
-├── bible.md
 ├── requirements.txt
 └── README.md
 ```
