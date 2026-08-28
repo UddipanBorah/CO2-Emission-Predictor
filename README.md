@@ -100,6 +100,3 @@ streamlit run app.py
 Open `http://localhost:8501` in your web browser to interact with the dashboard.
 
 ---
-
-## 📚 Study Log & Project Guide
-For a deep dive into the engineering steps, data cleaning checks, outlier strategies, feature ablation details, and a mock interview preparation cheat sheet, check out **[bible.md](file:///d:/CO2_PROJECT_2.0/bible.md)**.
