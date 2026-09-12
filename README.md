@@ -2,6 +2,8 @@
 
 An enterprise decision-support dashboard designed for automotive manufacturers to estimate vehicle CO₂ emissions during the early R&D phase and discover data-backed design alternatives to meet environmental regulations.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR_STREAMLIT_URL_HERE](https://co2-emission-predictor-nfkfvdyfqs7qvyokdkirgk.streamlit.app/))
+
 ---
 
 ## 📌 The Problem
